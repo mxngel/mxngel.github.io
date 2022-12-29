@@ -11,7 +11,7 @@ I have experience and knowledge in the following areas:
 * Open Source Intelligence.
 ## Certifications
 * ISC² Certified in Cybersecurity
-* Top 1% of the [HackTheBox Academy] plattform ranking with 252 targets compromised. (https://drive.google.com/file/d/1ysG8jYLwTeUtElBLb3IRv4uaxznIacEv/view?usp=sharing)
+* [Top 1% of the HackTheBox Academy plattform ranking with 252 targets compromised.] (https://drive.google.com/file/d/1ysG8jYLwTeUtElBLb3IRv4uaxznIacEv/view?usp=sharing)
 * Qualys Vulnerability Management Detection and Response.
 * Qualys Web Application Scanning.
 * Web hacking course.
