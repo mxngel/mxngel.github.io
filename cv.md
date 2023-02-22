@@ -22,8 +22,8 @@ I have experience and knowledge in the following areas:
 * Técnico en Emergencias Sanitarias (2019 - 2021)
 ## Experience
 * Aiuken Cybersecurity (Since June 2022 - until now)
-* [Top 1% of the HackTheBox Academy platform ranking with 252 targets compromised.](https://drive.google.com/file/d/1ysG8jYLwTeUtElBLb3IRv4uaxznIacEv/view?usp=sharing)
-* [Top 10% of the TryHackMe platform ranking.](https://tryhackme.com/p/mxngel)
+* [Top 1% of the HackTheBox Academy platform ranking with 252 targets compromised.](https://drive.google.com/file/d/10iY3bFxKyhrVluLo2vV2IiZ_91AogcTU/view?usp=sharing)
+* [Top 6% of the TryHackMe platform ranking with Offensive Pentesting path completed.](https://tryhackme.com/p/mxngel)
 ## Contact
 * Email: mxngel@proton.me
 * Twitter: [@fibrilasion](https://twitter.com/fibrilasion)
