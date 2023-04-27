@@ -10,9 +10,11 @@ I have experience and knowledge in the following areas:
 * Malware analysis.
 * Open Source Intelligence.
 ## Certifications
+* OSCP (Course and laboratories completed. Exam in less than 30 days.)
 * ISC² Certified in Cybersecurity
 * Qualys Vulnerability Management Detection and Response.
 * Qualys Web Application Scanning.
+* Pentera Certified Platform Specialist
 * Web hacking course.
 * Ethical hacking course.
 * Malware analysis course.
@@ -23,8 +25,7 @@ I have experience and knowledge in the following areas:
 ## Experience
 * Aiuken Cybersecurity (Since June 2022 - until now)
 * [Top 1% of the HackTheBox Academy platform ranking with 252 targets compromised.](https://drive.google.com/file/d/10iY3bFxKyhrVluLo2vV2IiZ_91AogcTU/view?usp=sharing)
-* [Top 6% of the TryHackMe platform ranking with Offensive Pentesting path completed.](https://tryhackme.com/p/mxngel)
+* [Top 5% of the TryHackMe platform ranking with Offensive Pentesting path completed.](https://tryhackme.com/p/mxngel)
 ## Contact
 * Email: mxngel@proton.me
-* Twitter: [@fibrilasion](https://twitter.com/fibrilasion)
 * Linkedin: [mxngel](https://www.linkedin.com/in/mxngel/)
