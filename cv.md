@@ -10,7 +10,7 @@ I have experience and knowledge in the following areas:
 * Malware analysis.
 * Open Source Intelligence.
 ## Certifications
-* OSCP (Course and laboratories completed. Exam in less than 30 days.)
+* OSCP (Course and laboratories completed. Exam on June 2.)
 * ISC² Certified in Cybersecurity
 * Qualys Vulnerability Management Detection and Response.
 * Qualys Web Application Scanning.
