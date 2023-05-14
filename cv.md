@@ -17,40 +17,40 @@ He conseguido las siguientes certificaciones que avalan mi trabajo, conocimiento
 *   Ranking top 1% de la plataforma, con 264 máquinas comprometidas
 *   Path Penetration Tester al 74,41%
 *   Path Bug Bounty Hunter completada al 100% (432 horas)
-*   *   Web Requests
-*   *   Introduction to Web Applications
-*   *   Using Web Proxies (Burp Suite and OWASP ZAP)
-*   *   Information Gathering - Web Edition
-*   *   Attacking Web Applications with Ffuf
-*   *   JavaScript Deobfuscation
-*   *   Cross-Site Scripting (XSS)
-*   *   SQL Injection Fundamentals
-*   *   SQLMap Essentials
-*   *   Command Injections
-*   *   File Upload Attacks
-*   *   Server-side Attacks (SSRF, SSTI, SSI)
-*   *   Login Brute Forcing
-*   *   Broken Authentication
-*   *   Web Attacks (HTTP Verb Tampering, IDOR, XXE)
-*   *   File Inclusion
-*   *   Session Security (Session Hijacking, CSRF, XSS, Open redirects)
-*   *   Web Service & API Attacks
-*   *   Hacking WordPress
-*   *   Bug Bounty Hunting Process
+    *   Web Requests
+    *   Introduction to Web Applications
+    *   Using Web Proxies (Burp Suite and OWASP ZAP)
+    *   Information Gathering - Web Edition
+    *   Attacking Web Applications with Ffuf
+    *   JavaScript Deobfuscation
+    *   Cross-Site Scripting (XSS)
+    *   SQL Injection Fundamentals
+    *   SQLMap Essentials
+    *   Command Injections
+    *   File Upload Attacks
+    *   Server-side Attacks (SSRF, SSTI, SSI)
+    *   Login Brute Forcing
+    *   Broken Authentication
+    *   Web Attacks (HTTP Verb Tampering, IDOR, XXE)
+    *   File Inclusion
+    *   Session Security (Session Hijacking, CSRF, XSS, Open redirects)
+    *   Web Service & API Attacks
+    *   Hacking WordPress
+    *   Bug Bounty Hunting Process
 ### TryHackMe
 *   Ranking top 5% de la plataforma, con 34 rooms completadas
 *   Offensive Pentesting Path completada al 100% (28 módulos)
-*   *   Advanced exploitation
-*   *   Buffer Overflow
-*   *   Active Directory
-*   *   Breaching Active Directory
-*   *   Enumerating Active Directory
-*   *   Lateral Movement and Pivoting
-*   *   Exploiting Active Directory
-*   *   Persisting Active Directory
-*   *   Credentials Harvesting
-*   *   Powershell Scripting
-*   *   Máquinas varias
+    *   Advanced exploitation
+    *   Buffer Overflow
+    *   Active Directory
+    *   Breaching Active Directory
+    *   Enumerating Active Directory
+    *   Lateral Movement and Pivoting
+    *   Exploiting Active Directory
+    *   Persisting Active Directory
+    *   Credentials Harvesting
+    *   Powershell Scripting
+    *   Máquinas varias
 ### Offensive Security PWK
 *   Curso del OSCP
 *   Técnicas de enumeración pasivas y activas
