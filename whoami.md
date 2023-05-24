@@ -5,6 +5,7 @@ He conseguido las siguientes certificaciones que avalan mi trabajo, conocimiento
 *   OSCP (Fecha de examen prevista: 2 de junio)
 *   eCPPTv2
 *   CC de ISC²
+*   EHE
 *   Certificaciones varias de distintos fabricantes
 *   Cursos varios
 ## Experiencia
