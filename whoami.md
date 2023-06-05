@@ -2,7 +2,7 @@
 Mi nombre es Miguel Ángel y aunque he pasado mucho tiempo entre luces azules y sirenas, llevo en el mundo de la seguridad informática desde que era niño y actualmente puedo presumir de dedicarme a ello.
 ## Certificaciones
 He conseguido las siguientes certificaciones que avalan mi trabajo, conocimientos y experiencia:
-*   OSCP (Fecha de examen prevista: 2 de junio)
+*   OSCP
 *   eCPPTv2
 *   CC de ISC²
 *   EHE de EC-Council
