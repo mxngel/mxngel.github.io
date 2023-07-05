@@ -9,7 +9,8 @@ He conseguido las siguientes certificaciones que avalan mi trabajo, conocimiento
 *   Certificaciones varias de distintos fabricantes
 *   Cursos varios
 ## Experiencia
-### Red Team en Aiuken Cybersecurity (Junio 2022 - Actualidad)
+### Pentester - Offensive Security Team en Entelgy Innotec Security (Julio 2023 - Actualidad)
+### Red Team en Aiuken Cybersecurity (Junio 2022 - Junio 2023)
 *   Pentesting de aplicaciones web siguiendo los estándares OWASP y distintas metodologías
 *   Pentesting en redes corporativas en modalidad de caja negra y gris
 *   Pentesting sobre direcciones IP públicas en modalidad de caja negra y gris
